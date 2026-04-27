@@ -57,5 +57,5 @@ Implementing data mining topics in Python and comparing them to R/
 ---
 ## 👥 Author
 Ángel Sebastián Céspedes Ramírez
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/AnSebCR1705)
+[![GitHub](https://img.shields.io/badge/GitHub-%C3%81ngel%20Sebasti%C3%A1n%20C%C3%A9spedes%20Ram%C3%ADrez-181717?logo=github&logoColor=white)](https://github.com/AnSebCR1705)
 
