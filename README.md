@@ -30,7 +30,7 @@ Regarding use and access to the datasets used in this project, the following poi
 - Some datasets were provided during the Data Mining course and are not publicly available. For this reason, they are not included in this repository.
 - If you are a student from the university, you may request access using you institutional email:
 
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Ver%20archivos-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1VtZ4S91A-lwIQf-ZosZqbnnz_ktHL9XP?usp=drive_link)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-View%20files-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1VtZ4S91A-lwIQf-ZosZqbnnz_ktHL9XP?usp=drive_link)
 
 These datasets are shared exclusively for educational purposes. Therefore, once you are granted access, you will be able to download them and add them to your duplicate folder in this repository, within the `Datasets/` section.
 
@@ -57,5 +57,5 @@ Implementing data mining topics in Python and comparing them to R/
 ---
 ## 👥 Author
 Ángel Sebastián Céspedes Ramírez
-[🐙 GitHub](https://github.com/AnSebCR1705)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/AnSebCR1705)
 
